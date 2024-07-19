@@ -18,3 +18,4 @@ editor:
     - 'move assets assets'
     - 'rename assets assets'
     - 'delete assets assets'
+    - 'access default site'
